@@ -1,2 +1,3 @@
-# emotion_recognition
+Emotion Recognition
+
 Emotion Recognition from Physical Signals with Deep Learning
