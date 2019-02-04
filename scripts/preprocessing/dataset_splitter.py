@@ -39,7 +39,8 @@ class DatasetSplit:
         for filename in os.listdir(self.dataset_path):
             self.file_names.append(filename)
             try:
-                dataset = pd.read_csv(os.path.join(self.dataset_path, filename))
+                dataset = pd.read_csv(os.path.join(self.dataset_path, filename), header=None)
+                dataset.columns = ["ecg","gsr","temp","hr","spo2","timest"]
                 self.dataset_list.append(dataset)
             except:
                 print("ERROR! %s is not exist" %(os.path.join(self.dataset_path , filename)))
