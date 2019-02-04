@@ -87,7 +87,7 @@ class DatasetSplit:
                 else:
                     video_id = 1
                 file_name = file_name + str(video_id) + ".csv"
-                emotion.to_csv(file_name,encoding='utf-8', index = False)
+                emotion.to_csv(file_name,encoding='utf-8', index = False, float_format = "%.4f")
             
     
     def find_first_digit(self, name: str): #finds the first integer digit's index in a string
