@@ -1,0 +1,5 @@
+ecg  - Electrocardiogram is commonly called an ECG or EKG and uses a machine to measure and record (on paper or a computer screen) the electrical activity in the heart. With each heartbeat, the heart emits a series of electrical discharge spikes that can be recorded using electrodes on the surface of the body. https://www.mydr.com.au/tests-investigations/electrocardiogram-ecg
+gsr   - The galvanic skin response (GSR, which falls under the umbrella term of electrodermal activity, or EDA) refers to changes in sweat gland activity that are reflective of the intensity of our emotional state, otherwise known as emotional arousal. https://imotions.com/blog/gsr/
+temp - Body Temparature
+HR - Heart Rate
+SPO2 - SpO2 stands for peripheral capillary oxygen saturation, an estimate of the amount of oxygen in the blood. More specifically, it is the percentage of oxygenated haemoglobin (haemoglobin containing oxygen) compared to the total amount of haemoglobin in the blood (oxygenated and non-oxygenated haemoglobin). https://support.withings.com/hc/en-us/articles/201494667-Withings-Pulse-What-does-SpO2-mean-What-is-a-normal-SpO2-level-
