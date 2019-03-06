@@ -1,0 +1,6 @@
+ecg  -  Electrocardiogram, Cilde yapýþtýrýlan elektrotlar aracýlýðý ile grafik olarak kalbin elektriksel aktivitesini (kalbin ritmini, frekansýný, kalp atýþlarýnýn ritmini, yayýlmasýný ve reaksiyonun tekrar yok olmasý) kaydeden bir cihazdýr. http://tinaztepehastanesi.com.tr/saglik_kosesi/kardiyoloji/ekg-nedir-
+gsr   - Galvanik Deri Tepkisi,  derinin elektrik geçirgenliðine göre verdiði tepkiye denir. Kiþi heyecanlandýðý zaman derisinin elektrik geçirgenliði deðeri deðiþiklik göstermektedir. Bu sayede GSR sensörleri ile, heyecan durumu rahatlýkla ölçülebilmektedir. Genellikle yalan makineleri de bu prensiple çalýþmaktadýr.
+temp - Temparature, Vücut Isýsý
+HR - Heart Rate, Kalp Atýþ Hýzý
+SPO2 - SPO2, oksijen Satürasyonu, Oksijen Doygunluðu olarak da ifade edilebilir. SPO2, oksijen doygunluðuna ulaþmýþ olan hemoglobinin ifade ediliþ þeklidir. Bir kiþinin normal SPO2 seviyesi %95 ile 0 arasýndadýr. https://doktorun.net/spo2-nedir-spo2-yuksekligi-dusuklugu-normal-degerleri/
+timestamp - Geçen süreyi içerir
